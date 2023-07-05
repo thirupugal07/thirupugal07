@@ -69,7 +69,7 @@
 
 <!-- //   
 //<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thirupugal07&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- -->
+ --> 
   # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=thirupugal07&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
   
